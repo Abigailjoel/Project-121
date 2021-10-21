@@ -1,0 +1,42 @@
+img{
+    height: 100;
+}
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+  font-size: 23px;
+}
+.heading_div
+  {
+    background: rgb(169, 241, 190) ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+    width: 100%;
+    height: 70%;
+  }
+  button {
+    background-color: rgb(89, 228, 221);
+  }
+  .img-responsive {
+      width: 100px;
+      height: 350px;
+  }
+
+  .hoverboard.jpg {
+    height: 300;
+    width: 400;
+  }
+
+  .waterbottle {
+ height: 400;
+  }
+  
+  .mirror.jpg {
+    height: 400;
+    width: 300;
+  }
